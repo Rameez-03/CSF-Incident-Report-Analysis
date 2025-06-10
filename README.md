@@ -26,3 +26,6 @@ Detect potential security incidents and improve monitoring capabilities to incre
 Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+
+# Incident Report Analysis
+<a href="https://github.com/Rameez-03/CSF-Incident-Report-Analysis/blob/main/Incident%20report%20analysis.pdf" target="_blank">Report</a>
